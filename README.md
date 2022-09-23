@@ -1,5 +1,7 @@
 # Python & Text Analysis for Absolute Beginners
 
+![NULibraryAndNULabLogos](/CombinedLogosJupyterBook.png)
+
 Materials for Python & Text Analysis for Absolute Beginners workshop. [Sample workshop description here](https://northeastern.libcal.com/event/8553317).
 
 <h3>To replicate our workshop, execute the notebooks in the following order:</h3>
