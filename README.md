@@ -1,6 +1,6 @@
 # Python & Text Analysis for Absolute Beginners
 
-![NULibraryAndNULabLogos](/CombinedLogosJupyterBook.png)
+<img src="CombinedLogosJupyterBook.png" width="30%" height="30%" />
 
 Materials for Python & Text Analysis for Absolute Beginners workshop. [Sample workshop description here](https://northeastern.libcal.com/event/8553317).
 
